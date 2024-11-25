@@ -1,4 +1,6 @@
-## Hi there 👋
+<img src="https://img.hebus.com/hebus_2013/02/13/preview/1360720683_79357.jpg" alt="anonymous" width="100%">
+
+# Bonjour 👋
 
 <!--
 **antoine-dos/antoine-dos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
